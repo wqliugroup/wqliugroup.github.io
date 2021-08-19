@@ -3,8 +3,8 @@ title: 刘万强课题组
 SEOTitle: 星光不负赶路人
 header-img: img/about-someone.jpg
 email: wanqiangliu@foxmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+description: "计算化学+学术写作+高中化学教学"
+keyword: "计算化学, 分子动力学, 高中化学, 学术写作, 课程思政"
 url: "https://wqliugroup.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wqliugroup/wqliugroup.github.io.git" # you code repository
@@ -99,8 +99,8 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "湖南科技大学化学化工学院",
+        href: "https://www.hnust.edu.cn/chem"
     },{
         title: "星球语互动社区",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
